@@ -17,7 +17,8 @@ I believe I'm the world best softengineer. ✨
 <!-- 주언어 -->
 <h3 align="center"> 📚Main Language📚 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </p>
 
 </br>
