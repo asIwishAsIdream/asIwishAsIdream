@@ -30,8 +30,8 @@ I believe I'm the world best softengineer. ✨
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
 </p>
 </br>
-<!-- 관련 소개 -->
-<h3 align="center"> 🪜 Me 🪜 </h3>
+<!-- 관련 소개  
+<h3 align="center"> 🧒🏻 Me 🧒🏻 </h3>
 <p align="center">
   <a href="https://instagram.com/nak_nakk_"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/nak_nakk_/"/>&nbsp</a>
   <a href="https://naknak-s.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFA500?style=flat-square&logo=Tistory&logoColor=white&link=https://naknak-s.tistory.com/"/></a>&nbsp
