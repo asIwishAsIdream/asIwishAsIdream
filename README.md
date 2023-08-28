@@ -4,7 +4,7 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm NakHyun Choi, a growing developer. 🌱 <br>
-I believe I'm the world best softengineer. ✨
+I believe I'm the world best AI engineer. ✨
 </p>
  
 </br>
